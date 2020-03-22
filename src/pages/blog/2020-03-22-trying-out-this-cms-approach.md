@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Trying out this CMS approach
 date: 2020-03-22T21:36:11.336Z
 description: 'So, I guess this is how you use CMSs, or at least the headless versions.'
-featuredpost: true
+featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - newcms newtimes newapproach
